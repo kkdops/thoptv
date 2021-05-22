@@ -16,7 +16,7 @@ source_x86_64=("${_appimage}::https://github.com/kkdops/thoptv/releases/download
                "https://raw.githubusercontent.com/kkdops/thoptv/${pkgver}/LICENSE"
               )
 noextract=("${_appimage}")
-sha256sums_x86_64=('268af89aa50b96622da295e40b4ff278d89b5d6448cdbd6e5b87343df0165690'
+sha256sums_x86_64=('a0066f7b0a845f7802f09afd668d77d3c68ec17c7ec69954ea946006078e4e93'
                    '6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e')
 
 prepare() {
