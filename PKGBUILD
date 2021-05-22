@@ -3,7 +3,7 @@
 _pkgname=thoptv
 
 pkgname="${_pkgname}"-appimage
-pkgver=46.1.0
+pkgver=46.2.0
 pkgrel=1
 pkgdesc="Thoptv  is the best source to enjoy Ultimate Movies,  sports Matches, IPL and Latest Shows, radio and many much more thing’s.it’s totally free of cost you don’t need to pay any single to use this application it has a premium plan."
 arch=('x86_64')
